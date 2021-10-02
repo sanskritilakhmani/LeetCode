@@ -43,3 +43,6 @@ class Solution {
         
     }
 }
+public class TwoSum {
+    
+}
